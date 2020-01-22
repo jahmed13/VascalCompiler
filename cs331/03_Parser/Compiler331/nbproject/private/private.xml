@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/SemanticAction.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/SemanticActionError.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/ConstantEntry.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/Token.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/SymbolTable.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/Parser.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/Lexer.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/ProcedureEntry.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/TermAndNonTermPair.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/IODeviceEntry.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/Quadruple.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/Compiler.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/FunctionEntry.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/ArrayEntry.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/SymbolTableEntry.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/VariableEntry.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/SymbolTableError.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/Quadruples.java</file>
+            <file>file:/home/jahmed/Desktop/cs331/03_Parser/Compiler331/src/lexer/Main.java</file>
+        </group>
+    </open-files>
+</project-private>
